@@ -19,3 +19,9 @@
 .texto{
     color: red;
 }
+
+footer{
+    background-color: black;
+    padding: 80px;
+    color: white;
+}
