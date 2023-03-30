@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: rgb(0, 255, 0);
+    background-color: rgb(255, 19, 10);
     color: rgb(255, 255, 255);
 }
 
@@ -21,7 +21,7 @@
 }
 
 footer{
-    background-color: black;
+    background-color: rgba(233, 0, 0, 0.699);
     padding: 80px;
     color: white;
 }
