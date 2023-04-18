@@ -1,19 +1,4 @@
-cabecalho{
-    background-color: rgb(25, 39, 243);
-    color: rgb(29, 28, 28);
+body{
+    background-color: rgb(255, 0, 0);
+    font-size: 16px;
 }
-
-.imagem{
-    width: 20%;
-}
-
-.lista{
-    display: inline-block;
-    margin: 0 30px
-}
-
-.ferrari{
-    width: 30%;
-}
-
-
